@@ -19,6 +19,23 @@ print(str.hasPrefix("Hello"))
 print(str.hasPrefix("Hello"))
 print(str.caseInsensitiveCompare("hello"))
 
+for c in str{
+    print(c)
+}
 
 
+var x = 1...
 
+for i in x{
+    print(i)
+}
+
+var y = ...50
+if(y.contains(-1000)){
+    print("ture")
+}
+if(y.contains(51)){
+    print("ture")
+}else{
+    print("false")
+}
